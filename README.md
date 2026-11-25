@@ -4,16 +4,76 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A4FA8&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;Working+with+AI+%26+Data+%F0%9F%A4%96" alt="Typing animation" />
 
+<br/>
+
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=shahadeissaalharbi.shahadeissaalharbi&left_color=e9a3c4&right_color=c58ad9&left_text=Profile%20Views)
+[![Email](https://img.shields.io/badge/Email-fde2ee?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:shahadeissa111@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-efe6f7?style=for-the-badge&logo=github&logoColor=5b4466)](https://github.com/shahadeissaalharbi)
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🌸 About me
 
-- 💻 **Full-stack developer**: I build web apps end to end, from **React** interfaces to **Python / Flask / PostgreSQL** back ends, plus payments and deployment
-- 🤖 I work with **AI and Data**: data science, machine learning and **Business Intelligence** dashboards
+```yaml
+shahad:
+  name: "Shahad Alharbi"
+  role: "Full-Stack Developer"
+  location: "Riyadh, Saudi Arabia 🇸🇦"
+  focus: ["AI", "Data Science", "Business Intelligence"]
+```
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 What I build
+Web apps end to end: **React** interfaces, **Python / Flask / PostgreSQL** back ends, authentication, payments and deployment.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Data
+I work with **data science**, **machine learning** and **Business Intelligence** dashboards.
+
+📖 *Currently learning:* Machine Learning · Power BI
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 🏆 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 HBnB Evolution</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Full--Stack-Airbnb--style_app-e9a3c4?style=for-the-badge&labelColor=5b4466"/></p>
+      <p>An Airbnb-style rental platform built in four stages: architecture design, a <b>REST API</b> with business logic, <b>JWT authentication</b> with a SQL database, and a <b>web client</b> that consumes the API.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Flask-f6c9dc?style=flat-square&logo=flask&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/DB-SQLAlchemy-efe6f7?style=flat-square&logo=sqlalchemy&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/Front-HTML%20%C2%B7%20CSS%20%C2%B7%20JS-fde2ee?style=flat-square&logo=javascript&logoColor=5b4466"/>
+      </p>
+      <p align="center"><a href="https://github.com/shahadeissaalharbi/holbertonschool-hbnb"><b>🔗 View repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐳 Softy Pinko Docker</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Infrastructure-Containers-c58ad9?style=for-the-badge&labelColor=5b4466"/></p>
+      <p>A containerized web infrastructure: an <b>Nginx reverse proxy</b> and <b>load balancer</b> routing traffic to two API servers and a static front-end server.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-Compose-efe6f7?style=flat-square&logo=docker&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/Nginx-Load%20balancing-f6c9dc?style=flat-square&logo=nginx&logoColor=5b4466"/>
+      </p>
+      <p align="center"><a href="https://github.com/shahadeissaalharbi/holbertonschool-softy-pinko-docker"><b>🔗 View repository →</b></a></p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 💜 GitHub stats
 
@@ -26,20 +86,7 @@
 
 </div>
 
----
-
-## 🎀 My corner
-
-<details open>
-<summary><b>📖 Currently learning</b></summary>
-
-<br/>
-
-Data Science · Machine Learning · Power BI dashboards
-
-</details>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 🧰 Tech stack
 
@@ -49,7 +96,7 @@ Data Science · Machine Learning · Power BI dashboards
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 📜 Certifications
 
@@ -63,7 +110,7 @@ Data Science · Machine Learning · Power BI dashboards
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 📚 More from my Holberton journey
 
@@ -88,7 +135,7 @@ Data Science · Machine Learning · Power BI dashboards
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
 ## 📈 My GitHub activity
 
@@ -98,9 +145,15 @@ Data Science · Machine Learning · Power BI dashboards
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+## 💌 Let's connect
 
 <div align="center">
+
+📧 **Email:** [shahadeissa111@gmail.com](mailto:shahadeissa111@gmail.com)
+
+<br/>
 
 ✨ Open to learning, collaborating and new opportunities in **full-stack development, AI and data** ✨
 
