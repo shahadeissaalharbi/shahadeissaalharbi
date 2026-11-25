@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="90" viewBox="0 0 900 90">
+  <style>
+    .cat{animation:walk 14s linear infinite}
+    .la{transform-box:fill-box;transform-origin:top center;animation:a .6s ease-in-out infinite}
+    .lb{transform-box:fill-box;transform-origin:top center;animation:b .6s ease-in-out infinite}
+    .tl{transform-box:fill-box;transform-origin:bottom right;animation:t 1.2s ease-in-out infinite}
+    .bob{animation:bob .6s ease-in-out infinite}
+    @keyframes walk{from{transform:translateX(-90px)}to{transform:translateX(900px)}}
+    @keyframes a{0%,100%{transform:rotate(20deg)}50%{transform:rotate(-20deg)}}
+    @keyframes b{0%,100%{transform:rotate(-20deg)}50%{transform:rotate(20deg)}}
+    @keyframes t{0%,100%{transform:rotate(-12deg)}50%{transform:rotate(14deg)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+  </style>
+  <line x1="0" y1="86" x2="900" y2="86" stroke="#f3d6e4" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round"/>
+  <g class="cat">
+    <g transform="translate(0,28)">
+      <g class="la"><rect x="18" y="40" width="5" height="16" rx="2.5" fill="#5b4466"/></g>
+      <g class="lb"><rect x="26" y="40" width="5" height="16" rx="2.5" fill="#5b4466"/></g>
+      <g class="la"><rect x="42" y="40" width="5" height="16" rx="2.5" fill="#5b4466"/></g>
+      <g class="lb"><rect x="50" y="40" width="5" height="16" rx="2.5" fill="#5b4466"/></g>
+      <g class="bob">
+        <g class="tl"><path d="M10 30 C2 22 4 8 12 6" stroke="#5b4466" stroke-width="5" fill="none" stroke-linecap="round"/></g>
+        <ellipse cx="34" cy="34" rx="24" ry="12" fill="#5b4466"/>
+        <circle cx="60" cy="22" r="11" fill="#5b4466"/>
+        <path d="M52 15 L54 3 L60 12 Z M62 12 L68 3 L69 15 Z" fill="#5b4466"/>
+        <path d="M54.5 12 L55.5 7 L58 11 Z M63.5 11 L66.5 7 L67 12 Z" fill="#e9a3c4"/>
+        <circle cx="64" cy="21" r="1.9" fill="#ffffff"/>
+        <circle cx="68.5" cy="26" r="1.4" fill="#e9a3c4"/>
+      </g>
+    </g>
+  </g>
+</svg>

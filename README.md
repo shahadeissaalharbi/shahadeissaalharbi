@@ -2,22 +2,48 @@
 
 <img src="assets/header.svg" width="100%" alt="Shahad Alharbi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0B7A5A&center=true&vCenter=true&width=640&lines=Backend+developer+%F0%9F%9B%A0%EF%B8%8F;Data+%26+AI+enthusiast+%F0%9F%93%8A" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A4FA8&center=true&vCenter=true&width=640&lines=Backend+developer+%F0%9F%9B%A0%EF%B8%8F;Data+%26+AI+enthusiast+%F0%9F%93%8A" alt="Typing animation" />
 
 <br/>
 
-[![Holberton](https://img.shields.io/badge/Holberton%20School-Software%20Engineering-e31937?style=for-the-badge)](https://www.holbertonschool.com)
-[![Tuwaiq](https://img.shields.io/badge/Tuwaiq%20Academy-Partner-1f2937?style=for-the-badge)](https://tuwaiq.edu.sa)
+[![Holberton](https://img.shields.io/badge/Holberton%20School-Software%20Engineering-e9a3c4?style=for-the-badge&labelColor=5b4466)](https://www.holbertonschool.com)
+[![Tuwaiq](https://img.shields.io/badge/Tuwaiq%20Academy-Partner-c58ad9?style=for-the-badge&labelColor=5b4466)](https://tuwaiq.edu.sa)
 
 </div>
 
 ---
 
-## 👋 About me
+## 🌸 About me
 
 - 🎓 Software Engineering student at **Holberton School** (with **Tuwaiq Academy**), graduating **December 2026**
 - 🛠️ I build backends and APIs with **Python / Flask / PostgreSQL**, and I enjoy making products work end to end: payments, deployment, and databases
 - 📊 Interested in **Data Science, AI and Business Intelligence**
+
+---
+
+## 💜 GitHub stats
+
+<div align="center">
+
+<img src="assets/stats.svg" width="49%" alt="GitHub stats" />
+<img src="assets/langs.svg" width="49%" alt="Most used languages" />
+
+<img src="assets/streak.svg" width="98%" alt="Contribution streak" />
+
+</div>
+
+---
+
+## 🎀 My corner
+
+<details open>
+<summary><b>📖 Currently learning</b></summary>
+
+<br/>
+
+Data Science · Machine Learning · Power BI dashboards
+
+</details>
 
 ---
 
@@ -33,11 +59,15 @@
 
 ## 📜 Certifications
 
-- 📊 Data Analyst Specialist
-- 🪟 Microsoft Specialist
-- 📈 Power BI Specialist
-- 🤖 AI Specialist
-- 🎖️ Holberton School bootcamp completion
+<div align="center">
+
+![Data Analyst Specialist](https://img.shields.io/badge/Data%20Analyst-Specialist-f6c9dc?style=flat-square&labelColor=8a5cb8)
+![Microsoft Specialist](https://img.shields.io/badge/Microsoft-Specialist-f6c9dc?style=flat-square&labelColor=8a5cb8)
+![Power BI Specialist](https://img.shields.io/badge/Power%20BI-Specialist-f6c9dc?style=flat-square&labelColor=8a5cb8)
+![AI Specialist](https://img.shields.io/badge/AI-Specialist-f6c9dc?style=flat-square&labelColor=8a5cb8)
+![Holberton bootcamp](https://img.shields.io/badge/Holberton-Bootcamp%20completion-f6c9dc?style=flat-square&labelColor=8a5cb8)
+
+</div>
 
 ---
 
@@ -70,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0b7a5a/shahadeissaalharbi" alt="Contribution graph" width="95%" />
+<img src="assets/activity.svg" width="98%" alt="Contribution graph" />
 
 </div>
 
@@ -78,7 +108,9 @@
 
 <div align="center">
 
-⭐ Open to learning, collaborating and new opportunities in **backend, data and AI**
+✨ Open to learning, collaborating and new opportunities in **backend, data and AI** ✨
+
+<img src="assets/cat.svg" width="100%" alt="A little cat walking by" />
 
 <img src="assets/footer.svg" width="100%" alt="" />
 
