@@ -15,12 +15,9 @@
 
 ## 👋 About me
 
-مرحباً! أنا **شهد الحربي** من الرياض 🇸🇦
-
 - 🎓 Software Engineering student at **Holberton School** (with **Tuwaiq Academy**), graduating **December 2026**
 - 🛠️ I build backends and APIs with **Python / Flask / PostgreSQL**, and I enjoy making products work end to end: payments, deployment, and databases
 - 📊 Interested in **Data Science, AI and Business Intelligence**
-- 🏅 Recognized by **SDAIA** under the *Million Saudis into AI* initiative
 
 ---
 
