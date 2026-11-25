@@ -19,35 +19,9 @@
 مرحباً! أنا **شهد الحربي** من الرياض 🇸🇦
 
 - 🎓 Software Engineering student at **Holberton School** (with **Tuwaiq Academy**), graduating **December 2026**
-- 🔬 Physics student at **Imam Mohammad Ibn Saud Islamic University**
 - 🛠️ I build backends and APIs with **Python / Flask / PostgreSQL**, and I enjoy making products work end to end: payments, deployment, and databases
 - 📊 Interested in **Data Science, AI and Business Intelligence**
 - 🏅 Recognized by **SDAIA** under the *Million Saudis into AI* initiative
-
----
-
-## 🚀 Featured project: Maksab (مَكْسَب)
-
-> **From the first cost to a successful wholesale order.**
-> A platform that brings Saudi home-based producers and suppliers together: smarter pricing and wholesale buying in one place.
-
-[![Visit](https://img.shields.io/badge/Visit-maksab.website-fbbf24?style=flat-square&logoColor=black)](https://maksab.website)
-[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/shahadeissaalharbi/maksab)
-
-| | |
-|---|---|
-| 🧮 **Pricing calculator** | cost, labour and profit → a fair selling price |
-| 🛒 **Wholesale marketplace** | search, filter, and a separate order per supplier |
-| 💳 **Online payment** | Moyasar checkout + webhook (sandbox) |
-| 📍 **Delivery location** | TomTom map, current location or a Google Maps link |
-| 📦 **Order tracking** | statuses from received to delivered |
-| 🧑‍🍳 **Supplier dashboard** | products, stock and incoming orders |
-
-**My part (backend and delivery):** Flask REST API, PostgreSQL database, Moyasar payment integration and webhook, and deployment on **Railway** (backend) and **Vercel** (frontend), plus the custom domain.
-
-**Stack:** React · Vite · Flask · PostgreSQL · JWT · Moyasar · TomTom · PyTest · GitHub Actions
-
-**Team:** [Bayadir](https://github.com/13222-crypto) · [Shomokh](https://github.com/shomukh01) · [Reem](https://github.com/Ryma976) · Shahad
 
 ---
 
