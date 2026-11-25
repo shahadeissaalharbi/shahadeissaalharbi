@@ -15,6 +15,6 @@
     <text x="600" y="92" font-size="52" font-weight="700">Shahad Alharbi
       <animate attributeName="opacity" from="0" to="1" dur="1.2s"/>
     </text>
-    <text x="600" y="132" font-size="20" opacity="0.92">Software Engineering Student · Backend | Data &amp; AI</text>
+    <text x="600" y="132" font-size="20" opacity="0.92">Full-Stack Developer · AI &amp; Data</text>
   </g>
 </svg>

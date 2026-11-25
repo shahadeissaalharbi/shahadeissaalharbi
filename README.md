@@ -2,12 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Shahad Alharbi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A4FA8&center=true&vCenter=true&width=640&lines=Backend+developer+%F0%9F%9B%A0%EF%B8%8F;Data+%26+AI+enthusiast+%F0%9F%93%8A" alt="Typing animation" />
-
-<br/>
-
-[![Holberton](https://img.shields.io/badge/Holberton%20School-Software%20Engineering-e9a3c4?style=for-the-badge&labelColor=5b4466)](https://www.holbertonschool.com)
-[![Tuwaiq](https://img.shields.io/badge/Tuwaiq%20Academy-Partner-c58ad9?style=for-the-badge&labelColor=5b4466)](https://tuwaiq.edu.sa)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A4FA8&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%F0%9F%92%BB;Working+with+AI+%26+Data+%F0%9F%A4%96" alt="Typing animation" />
 
 </div>
 
@@ -15,9 +10,8 @@
 
 ## 🌸 About me
 
-- 🎓 Software Engineering student at **Holberton School** (with **Tuwaiq Academy**), graduating **December 2026**
-- 🛠️ I build backends and APIs with **Python / Flask / PostgreSQL**, and I enjoy making products work end to end: payments, deployment, and databases
-- 📊 Interested in **Data Science, AI and Business Intelligence**
+- 💻 **Full-stack developer**: I build web apps end to end, from **React** interfaces to **Python / Flask / PostgreSQL** back ends, plus payments and deployment
+- 🤖 I work with **AI and Data**: data science, machine learning and **Business Intelligence** dashboards
 
 ---
 
@@ -108,7 +102,7 @@ Data Science · Machine Learning · Power BI dashboards
 
 <div align="center">
 
-✨ Open to learning, collaborating and new opportunities in **backend, data and AI** ✨
+✨ Open to learning, collaborating and new opportunities in **full-stack development, AI and data** ✨
 
 <img src="assets/cat.svg" width="100%" alt="A little cat walking by" />
 
