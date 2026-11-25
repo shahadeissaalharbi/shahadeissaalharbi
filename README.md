@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,100:fbbf24&height=200&section=header&text=Shahad%20Alharbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Backend%20%7C%20Data%20%26%20AI&descAlignY=60&descSize=18" alt="Shahad Alharbi" />
+<img src="assets/header.svg" width="100%" alt="Shahad Alharbi" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0B7A5A&center=true&vCenter=true&width=640&lines=Backend+developer+%F0%9F%9B%A0%EF%B8%8F;Data+%26+AI+enthusiast+%F0%9F%93%8A" alt="Typing animation" />
 
@@ -83,6 +83,6 @@
 
 ⭐ Open to learning, collaborating and new opportunities in **backend, data and AI**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbbf24,100:0b3d2e&height=100&section=footer" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
