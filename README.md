@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,100:fbbf24&height=200&section=header&text=Shahad%20Alharbi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Backend%20%7C%20Data%20%26%20AI&descAlignY=60&descSize=18" alt="Shahad Alharbi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0B7A5A&center=true&vCenter=true&width=640&lines=Backend+developer+%F0%9F%9B%A0%EF%B8%8F;Data+%26+AI+enthusiast+%F0%9F%93%8A;Co-building+Maksab+%E2%80%94+maksab.website" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0B7A5A&center=true&vCenter=true&width=640&lines=Backend+developer+%F0%9F%9B%A0%EF%B8%8F;Data+%26+AI+enthusiast+%F0%9F%93%8A" alt="Typing animation" />
 
 <br/>
 
-[![Maksab](https://img.shields.io/badge/Live%20project-maksab.website-0b7a5a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maksab.website)
 [![Holberton](https://img.shields.io/badge/Holberton%20School-Software%20Engineering-e31937?style=for-the-badge)](https://www.holbertonschool.com)
 [![Tuwaiq](https://img.shields.io/badge/Tuwaiq%20Academy-Partner-1f2937?style=for-the-badge)](https://tuwaiq.edu.sa)
 
