@@ -61,14 +61,16 @@ I work with **data science**, **machine learning** and **Business Intelligence**
       <p align="center"><a href="https://github.com/shahadeissaalharbi/holbertonschool-hbnb"><b>🔗 View repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐳 Softy Pinko Docker</h3>
-      <p align="center"><img src="https://img.shields.io/badge/Infrastructure-Containers-c58ad9?style=for-the-badge&labelColor=5b4466"/></p>
-      <p>A containerized web infrastructure: an <b>Nginx reverse proxy</b> and <b>load balancer</b> routing traffic to two API servers and a static front-end server.</p>
+      <h3 align="center">🛍️ Maksab (مَكْسَب)</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Live-maksab.website-c58ad9?style=for-the-badge&labelColor=5b4466"/></p>
+      <p>A platform that brings Saudi <b>home-based producers</b> and <b>suppliers</b> together: a <b>pricing calculator</b> for a fair selling price, a <b>wholesale marketplace</b>, online payment, delivery location on a map and order tracking.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Docker-Compose-efe6f7?style=flat-square&logo=docker&logoColor=5b4466"/>
-        <img src="https://img.shields.io/badge/Nginx-Load%20balancing-f6c9dc?style=flat-square&logo=nginx&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/React-Vite-f6c9dc?style=flat-square&logo=react&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/Python-Flask-efe6f7?style=flat-square&logo=flask&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/DB-PostgreSQL-fde2ee?style=flat-square&logo=postgresql&logoColor=5b4466"/>
+        <img src="https://img.shields.io/badge/Payments-Moyasar-f6c9dc?style=flat-square&logoColor=5b4466"/>
       </p>
-      <p align="center"><a href="https://github.com/shahadeissaalharbi/holbertonschool-softy-pinko-docker"><b>🔗 View repository →</b></a></p>
+      <p align="center"><a href="https://maksab.website"><b>🌐 Visit site</b></a> &nbsp;·&nbsp; <a href="https://github.com/shahadeissaalharbi/maksab"><b>🔗 View repository →</b></a></p>
     </td>
   </tr>
 </table>
